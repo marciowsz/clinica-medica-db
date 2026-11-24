@@ -19,13 +19,11 @@ clinica-medica-db/
 
 ## Parte 1: Formação e definição do escopo
 
-### Integrantes do grupo
+### Integrante
 
 | Nome | GitHub |
 |---|---|
 | Marcio Rogério Reis Freire Junior | [@marciowsz](https://github.com/marciowsz) |
-| _(integrante 2)_ | |
-| _(integrante 3)_ | |
 
 ### Tema
 
